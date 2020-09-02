@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: green;
+}
+
+p {
+    color: orangered;
+}
+
+.i-am-the-favorite{
+    color: blue;
+}
